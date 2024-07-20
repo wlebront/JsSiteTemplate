@@ -37,6 +37,24 @@ footer .social>a:hover{
     color: var(--second-color)
 }
 
+.bsicon{
+    color: purple;
+}
+
+.jsicon{
+    color:rgb(226,211,4);
+}
+
+.html5icon{
+    color: orangered;
+}
+
+.cssicon{
+    color: rgb(11,82,214);
+}
+
+
+
 main>.container {
     padding: 60px 15px 0;
     margin-bottom: 5rem;
